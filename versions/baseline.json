@@ -3,6 +3,10 @@
     "spdlog": {
       "baseline": "1.15.3",
       "port-version": 0
+    },
+    "vcpkg-boost": {
+      "baseline": "2025-03-29",
+      "port-version": 0
     }
   }
 }
