@@ -4,6 +4,10 @@
       "baseline": "1.15.3",
       "port-version": 0
     },
+    "toolchain": {
+      "baseline": "1.0.0",
+      "port-version": 0
+    },
     "vcpkg-boost": {
       "baseline": "2025-03-29",
       "port-version": 0

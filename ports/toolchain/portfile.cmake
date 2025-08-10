@@ -1,0 +1,3 @@
+vcpkg_configure_cmake(SOURCE_PATH ${CMAKE_CURRENT_LIST_DIR} PREFER_NINJA)
+vcpkg_install_cmake()
+file(INSTALL ${CMAKE_CURRENT_LIST_DIR}/usage DESTINATION ${CURRENT_PACKAGES_DIR}/share/${PORT})
