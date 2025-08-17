@@ -1,4 +1,0 @@
-The package toolchain provides a CMake script that can be included in a toolchain file:
-
-    include("${VCPKG_INSTALLED_DIR}/${VCPKG_TARGET_TRIPLET}/share/toolchain.cmake")
-
