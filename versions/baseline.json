@@ -6,7 +6,7 @@
     },
     "toolchain": {
       "baseline": "1.0.3",
-      "port-version": 0
+      "port-version": 1
     },
     "vcpkg-boost": {
       "baseline": "2025-03-29",

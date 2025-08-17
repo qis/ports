@@ -1,6 +1,7 @@
 {
   "name": "toolchain",
   "version": "1.0.3",
+  "port-version": 1,
   "description": "CMake script that propagates Vcpkg toolchain properties.",
   "dependencies": [
     {
